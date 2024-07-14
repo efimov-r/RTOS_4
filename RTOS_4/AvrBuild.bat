@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR Studio 5.1.208 _ ASF 2.11\RTOS_4\labels.tmp" -fI -W+ie -C V2E -o "C:\AVR Studio 5.1.208 _ ASF 2.11\RTOS_4\RTOS_4.hex" -d "C:\AVR Studio 5.1.208 _ ASF 2.11\RTOS_4\RTOS_4.obj" -e "C:\AVR Studio 5.1.208 _ ASF 2.11\RTOS_4\RTOS_4.eep" -m "C:\AVR Studio 5.1.208 _ ASF 2.11\RTOS_4\RTOS_4.map" "C:\AVR Studio 5.1.208 _ ASF 2.11\RTOS_4\RTOS_4.asm"
